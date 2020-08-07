@@ -3,18 +3,14 @@
 Run detections on custom trained onnx models.
 [ONNX Tutorials](https://github.com/onnx/onnx-docker/blob/master/onnx-ecosystem/inference_demos/yoloV3_object_detection_onnxruntime_inference.ipynb) \
 EfficientDet implementation based from: https://github.com/murdockhou/Yet-Another-EfficientDet-Pytorch-Convert-ONNX-TVM \
-YOLOv3 implementation based from: https://github.com/AlexeyAB/darknet \
+YOLOv3 implementation based from: https://github.com/AlexeyAB/darknet 
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/).
 
 ```bash
-pip install onnx==1.7.0
-pip install onnxruntime-gpu==1.3.0
-pip install numpy==1.18.4
-pip install pillow==7.1.2
-pip install matplotlib==3.2.1
+pip install requirements.txt
 ```
 
 ## Setup
