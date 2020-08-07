@@ -1,7 +1,9 @@
 # ONNX runtime with object detection
 
 Run detections on custom trained onnx models.
-[ONNX Tutorials](https://github.com/onnx/onnx-docker/blob/master/onnx-ecosystem/inference_demos/yoloV3_object_detection_onnxruntime_inference.ipynb)
+[ONNX Tutorials](https://github.com/onnx/onnx-docker/blob/master/onnx-ecosystem/inference_demos/yoloV3_object_detection_onnxruntime_inference.ipynb) /
+EfficientDet implementation based from: https://github.com/murdockhou/Yet-Another-EfficientDet-Pytorch-Convert-ONNX-TVM /
+YOLOv3 implementation based from: https://github.com/AlexeyAB/darknet /
 
 ## Installation
 
